@@ -1,7 +1,4 @@
 Project Name : Online Mobile Search
- 
-Associate Name : Soham Mukherjee
-Associate ID : 2271264
 
 URL used:  https://www.amazon.in
 Operating System used: Windows 11
