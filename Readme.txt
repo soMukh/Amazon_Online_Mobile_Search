@@ -1,18 +1,13 @@
 Project Name : Online Mobile Search
- 
-Associate Name : Soham Mukherjee
-Associate ID : 2271264
 
 URL used:  https://www.amazon.in
 Operating System used: Windows 11
 
-Versions of Browsers and Drivers :-
+Versions of Browsers :-
 
->Chrome Browser- Version 109.0.5414.120 (Official Build) (64-bit)
->Chrome Driver- ChromeDriver 109.0.5414.74 (32-bit)
+>Chrome Browser- Version 113.0.5672.93 (Official Build) (64-bit)
 
->Edge Browser- Version 112.0.1722.68 (Official build) (64-bit)
->Edge Driver- EdgeDriver 112.0.1722.39 (64-bit)
+>Edge Browser- Version 114.0.1823.67 (Official build) (64-bit)
 
 JAR files used :-
 

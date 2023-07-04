@@ -20,7 +20,6 @@ public class DriverSetup
 			if(bname.equalsIgnoreCase("chrome"))
 			{
 				//Driver for Chrome browser
-				System.setProperty("webdriver.chrome.driver","C:\\Users\\2271264\\OneDrive - Cognizant\\Desktop\\Selenium WebDriver\\chromedriver_win32\\chromedriver.exe");
 				driver=new ChromeDriver();
 			}
 			else if(bname.equalsIgnoreCase("edge"))
